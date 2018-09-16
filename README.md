@@ -1,2 +1,1 @@
-# Truong-Long
-Study
+# Huong dan Git co ban
